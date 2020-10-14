@@ -5,7 +5,7 @@ module.exports = {
     smoothScroll: true,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'github', link: 'https://github.com/vuejs/vuepress' },
+      { text: 'github', link: 'https://github.com/guo-jianqiang/vuepress-blog' },
     ],
     sidebar: [
       {
